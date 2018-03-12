@@ -17,7 +17,7 @@ red;
     
 }
 .logo{
-    width:205px;
+    width:250px;
     font-size: 2.5rem;
     font-weight:bold;
     float:left;
@@ -35,6 +35,7 @@ red;
     float:left;
     height:200px
         width:1200px;
+    padding-top:20px;
 }
 
 .menuarea{
