@@ -18,3 +18,8 @@ height:400px;
 width:306px;
 float:left;
 }
+.footer{
+    background-color: green;
+    height:200px;
+    width:920;
+}
