@@ -12,3 +12,11 @@ background-color: blue;
 height: 200px;
 width:920px;
 }
+.logo{
+    width:160px;
+    height:160px;
+    margin:20px;
+    background-color:black;
+    float:right;
+    
+}
