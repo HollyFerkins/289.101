@@ -1,0 +1,13 @@
+div{ 
+   outline: 1px solid lime;
+}
+.container{ 
+width:920px;
+    
+}
+.header{
+    background-color: blue;
+    height: 200px;
+    width: 920px;
+    
+}
