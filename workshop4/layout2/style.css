@@ -19,7 +19,8 @@ width:306px;
 float:left;
 }
 .footer{
-    background-color: green;
+    background-color:green;
     height:200px;
-    width:920;
+    width:920px;
+    float:left;
 }
