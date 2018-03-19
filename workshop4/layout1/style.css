@@ -17,11 +17,15 @@ width:920px;
 .submenu{ 
 background-color: red;
 height: 400px;
-width:200px:
+width:200px;
+    float:left;
+    
 }
 .content{
     background-color: green;
-    width:700px;
+    width:720px;
     height: 400px;
+    float:left;
+    
     
 }
