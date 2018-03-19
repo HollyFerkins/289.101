@@ -1,4 +1,6 @@
-
+div{
+    outline:1px solid lime;
+}
 .container{ 
 width:920px;
     margin-left: auto;
@@ -14,4 +16,5 @@ width:920px;
 background-color:red;
 height:400px;
 width:306px;
+float:left;
 }
