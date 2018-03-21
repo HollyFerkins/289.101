@@ -15,7 +15,7 @@ width:920px;
 .smallbox1{
     width:260px;
     height:60px;
-    margin-left:10px;
+    margin-left:20px;
     margin-top:20px;
     background-color:yellow;
     float:left;
@@ -24,43 +24,18 @@ width:920px;
 .smallbox2{
     height:60px;
     width:600px;
-    margin-left:10px;
+    margin-left:20px;
     margin-top:20px;
     background-color:yellow;
     float:left;
     
 }
-.content{
-    height:400px;
-    width:620px;
-    float:left;
-    background-color: azure;
-    
-    
-    
-}
-.smallbox{
-    width:160px;
-    height:160px;
-    float:left;
-    background-color:aquamarine;
-    margin-left:20px;
-    margin-top:20px;
-    
-}
-.bigbox{
-    width:400px;
-    height: 300px;
-    float:left;
-    background-color:maroon;
-    margin-left:20px;
-    margin-top:20px;
-    
-}
-.footer{
-    background-color:aqua;
+
+.bigbox2{
     width:920px;
-    height:200px;
-    float:left;
+    height:300px;
+    background-color:green;
     
 }
+
+
