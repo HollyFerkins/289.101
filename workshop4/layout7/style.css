@@ -33,9 +33,59 @@ width:920px;
 
 .bigbox2{
     width:920px;
-    height:300px;
+    height:500px;
     background-color:green;
+    float:left;
     
 }
+.redbox1{
+    background-color:red;
+    width:920px;
+    height:400px;
+    float:left;
+    
+}
+.longbox{
+    background-color:yellow;
+    width:880px;
+    height: 85px;
+    float:left;
+    margin:20px;
+}
+.minibox{
+background-color:yellow;
+    width: 280px;
+    height:255px;
+    float:right;
+    margin-top:0px;
+    margin-right:20px;
+}
+.bluebox2{
+    background-color:blue;
+    width:920px;
+    height:1000px;
+    float:left;
+    
+    
+}
+.longbox2{
+    width:880px;
+    height:100px;
+    background-color:yellow;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+.littlebox{
+    background-color:yellow;
+    width:205px;
+    height:266px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+    
+    
+}
+.
 
 
