@@ -1,5 +1,5 @@
 div{
-    outline:1px solid lime;
+    outline:1px solid black;
 }
 .container{ 
 width:920px;
@@ -9,6 +9,58 @@ width:920px;
 }
 .header{ 
 background-color: blue;
-height: 240px;
+height: 100px;
 width:920px;
+}
+.smallbox1{
+    width:260px;
+    height:60px;
+    margin-left:10px;
+    margin-top:20px;
+    background-color:yellow;
+    float:left;
+    
+}
+.smallbox2{
+    height:60px;
+    width:600px;
+    margin-left:10px;
+    margin-top:20px;
+    background-color:yellow;
+    float:left;
+    
+}
+.content{
+    height:400px;
+    width:620px;
+    float:left;
+    background-color: azure;
+    
+    
+    
+}
+.smallbox{
+    width:160px;
+    height:160px;
+    float:left;
+    background-color:aquamarine;
+    margin-left:20px;
+    margin-top:20px;
+    
+}
+.bigbox{
+    width:400px;
+    height: 300px;
+    float:left;
+    background-color:maroon;
+    margin-left:20px;
+    margin-top:20px;
+    
+}
+.footer{
+    background-color:aqua;
+    width:920px;
+    height:200px;
+    float:left;
+    
 }
