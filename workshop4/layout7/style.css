@@ -63,7 +63,7 @@ background-color:yellow;
 .bluebox2{
     background-color:blue;
     width:920px;
-    height:1000px;
+    height:800px;
     float:left;
     
     
@@ -79,13 +79,61 @@ background-color:yellow;
 .littlebox{
     background-color:yellow;
     width:205px;
-    height:266px;
+    height:200px;
     float:left;
     margin-left:20px;
     margin-top:20px;
     
     
 }
+.greenbox2{
+    background-color:green;
+    width:920px;
+    height:650px;
+    float:left;
+    
+}
+.longbox3{
+    background-color:yellow;
+    width: 880px;
+    height:125px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+    
+}
+.rectangle{
+    background-color:yellow;
+    width:280px;
+    height:465px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+    
+}
+.redbox2{
+    background-color:red;
+    width:920px;
+    height:650px;
+    float:left;
+    
+}
+
+.longbox4{
+    background-color:yellow;
+    width:880px;
+    height:125px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+    
+}
+
 .
+
+    
+    
+    
+
 
 
