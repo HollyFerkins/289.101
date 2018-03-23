@@ -129,7 +129,14 @@ background-color:yellow;
     
 }
 
-.
+.littleboxer{
+    background-color:pink;
+    height:400px;
+    width:880px;
+    float:left;
+    margin-top:20px;
+    margin-left:20px;
+}
 
     
     
