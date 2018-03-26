@@ -32,6 +32,7 @@ body{
     margin-top:40px;
     font-size:0.75rem;
     float:right;
+    color:#4B4E61;
 }
 .links a{
     color:white;
@@ -39,4 +40,17 @@ body{
     margin-left:10px;
     margin-right:10px;
     
+}
+.salmon{
+    color:#f06c64
+}
+.banner{
+    background-color:#f06c64;
+    padding: 20px 0;
+    
+    
+}
+.banner img{
+    max-width:780px;
+    width:90%;
 }
