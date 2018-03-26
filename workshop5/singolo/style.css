@@ -33,3 +33,10 @@ body{
     font-size:0.75rem;
     float:right;
 }
+.links a{
+    color:white;
+    text-decoration:none;
+    margin-left:10px;
+    margin-right:10px;
+    
+}
