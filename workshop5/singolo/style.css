@@ -1,0 +1,32 @@
+div{
+    outline:1px solid lime;
+}
+body{
+    background-color:#f2f2f2;
+    margin:0px;
+    
+}
+.header{
+    background-color:#2d303a;
+    color:#ffffff;
+    height:90px;
+    
+}
+.nav{
+    max-width:950px;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+.logo{
+    margin-top:35px;
+    font-size:1.4rem;
+    float:left;
+}
+
+.links{
+    margin-top:40px;
+    font-size:0.75rem;
+    float:right;
+}
