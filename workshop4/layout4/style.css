@@ -1,0 +1,41 @@
+div{
+    outline:1px solid lime;
+}
+.container{ 
+width:920px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.header{ 
+background-color: blue;
+height: 200px;
+width:920px;
+}
+.greenbox{
+    background-color: green;
+    height:200px;
+    width:920;
+    
+    
+}
+.yellowbox{
+    background-color:yellow;
+    height:160px;
+    width: 430px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+.footer{
+    background-color: aquamarine;
+    height: 600px;
+}
+.greybox{
+    background-color:grey;
+    height:560px;
+    width: 430px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}

@@ -1,0 +1,163 @@
+div{
+    outline:1px solid black;
+}
+.container{ 
+width:920px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.header{ 
+background-color: blue;
+height: 100px;
+width:920px;
+}
+.smallbox1{
+    width:260px;
+    height:60px;
+    margin-left:20px;
+    margin-top:20px;
+    background-color:yellow;
+    float:left;
+    
+}
+.smallbox2{
+    height:60px;
+    width:600px;
+    margin-left:20px;
+    margin-top:20px;
+    background-color:yellow;
+    float:left;
+    
+}
+
+.bigbox2{
+    width:920px;
+    height:500px;
+    background-color:green;
+    float:left;
+    
+}
+.redbox1{
+    background-color:red;
+    width:920px;
+    height:400px;
+    float:left;
+    
+}
+.longbox{
+    background-color:yellow;
+    width:880px;
+    height: 85px;
+    float:left;
+    margin:20px;
+}
+.minibox{
+background-color:yellow;
+    width: 280px;
+    height:255px;
+    float:right;
+    margin-top:0px;
+    margin-right:20px;
+}
+.bluebox2{
+    background-color:blue;
+    width:920px;
+    height:800px;
+    float:left;
+    
+    
+}
+.longbox2{
+    width:880px;
+    height:100px;
+    background-color:yellow;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+.littlebox{
+    background-color:yellow;
+    width:205px;
+    height:200px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+    
+    
+}
+.greenbox2{
+    background-color:green;
+    width:920px;
+    height:650px;
+    float:left;
+    
+}
+.longbox3{
+    background-color:yellow;
+    width: 880px;
+    height:125px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+    
+}
+.rectangle{
+    background-color:yellow;
+    width:280px;
+    height:465px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+    
+}
+.redbox2{
+    background-color:red;
+    width:920px;
+    height:650px;
+    float:left;
+    
+}
+
+.longbox4{
+    background-color:yellow;
+    width:880px;
+    height:125px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+    
+}
+
+.littleboxer{
+    background-color:yellow;
+    height:465px;
+    width:430px;
+    float:left;
+    margin-top:20px;
+    margin-left:20px;
+}
+.rectangle2{
+    width:430px;
+    height:300px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+    background-color:yellow;
+    
+    
+    
+}
+.footer{
+    height:120px;
+width:920px;
+    float:left;
+    background-color:blue;
+    
+}
+    
+    
+    
+
+
+
