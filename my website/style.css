@@ -1,0 +1,14 @@
+iv{
+    outline:1px solid black;
+    float: left;
+}
+
+
+
+.logobox{
+    width:1200px;
+    height:380px;
+    color:white;
+    outline:black 10px;
+    float:left;
+}
