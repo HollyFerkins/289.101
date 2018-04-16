@@ -1,14 +1,19 @@
-iv{
+div{
     outline:1px solid black;
-    float: left;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
 
-.logobox{
+.header{
     width:1200px;
     height:380px;
     color:white;
-    outline:black 10px;
-    float:left;
+    float:auto;
+}
+
+.logobox{
+    width:380px;
+    height:380px;
 }
