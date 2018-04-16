@@ -4,7 +4,18 @@ div{
     margin-right: auto;
 }
 
+body{
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-size: 50px;
+    text-decoration:underline;
+    margin:0px;
+    background-color:#f2f2f2;
+    
+    
+    
 
+}
 
 .header{
     width:1200px;
@@ -17,3 +28,15 @@ div{
     width:380px;
     height:380px;
 }
+
+.nav{
+    max-width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+.links{
+    color:black;
+    
+}
+
