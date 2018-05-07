@@ -1,3 +1,50 @@
 body{
     */ background-color:red;*/
 }
+
+.blue{
+    background-color:cornflowerblue;
+    height:50px;
+}
+
+.green{
+    background-color:greenyellow;
+   height:150px;
+}
+
+.orange{
+    background-color:coral;
+    height:100px;
+}
+
+.grey{
+    background-color:lightgrey;
+    height:50px;
+}
+
+/* sm devices */
+
+@media (min-width: 576px){
+    body{ background-color:indianred}
+}
+/*md*/
+@media( min-width:768px){
+    body{
+        background-color:orange;
+        .grey{ }
+    }
+}
+/* lg*/
+@media (min-width: 992px){
+    body{
+        background-color:palegreen;
+    
+    }
+    
+}
+/*xl*/
+@media (min-width:1200px){
+    body{
+        background-color:mediumpurple;
+    }
+}
