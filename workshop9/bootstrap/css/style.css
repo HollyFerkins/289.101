@@ -1,43 +1,58 @@
 body{
     */ background-color:red;*/
+    text-align: center;
 }
 
 .blue{
     background-color:cornflowerblue;
-    height:50px;
+    height:150px;
 }
 
 .green{
-    background-color:greenyellow;
+   background-color:greenyellow;
    height:150px;
 }
 
 .orange{
     background-color:coral;
-    height:100px;
+    height:1350px;
+   
+    
 }
 
 .grey{
     background-color:lightgrey;
-    height:50px;
+    height:400px;
+}
+
+.pink{
+    background-color:darkgray;
+    height:400px;
+    float:left;
+    margin-top: 30px;
+   
+  
+   
+
+    
 }
 
 /* sm devices */
 
 @media (min-width: 576px){
-    body{ background-color:indianred}
+    body{ background-color:white}
 }
 /*md*/
 @media( min-width:768px){
     body{
-        background-color:orange;
-        .grey{ }
+        background-color:white;
+       
     }
 }
 /* lg*/
 @media (min-width: 992px){
     body{
-        background-color:palegreen;
+        background-color:white;
     
     }
     
@@ -45,6 +60,6 @@ body{
 /*xl*/
 @media (min-width:1200px){
     body{
-        background-color:mediumpurple;
+        background-color:white;
     }
 }
